@@ -20,9 +20,9 @@ $(function () {
 });
 $(function () {
     $(".typed").typed({
-        strings: ['d3ntly', "Kto eto?", "PHP developer", "Coder", "Nedohacker"],
+        strings: ['d3ntly', "Kto eto?", "JavaScript developer", "Coder", "Nedohacker", "Bot creator"],
         typeSpeed: 100,
         loop: true,
-        cursorChar: "~",
+        cursorChar: "|",
     });
 });
