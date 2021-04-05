@@ -23,6 +23,6 @@ $(function () {
         strings: ['d3ntly', "Kto eto?", "PHP developer", "Game lover...", "Coder", "NedoHacker", "Bot creator"],
         typeSpeed: 100,
         loop: true,
-        cursorChar: "_",
+        cursorChar: "|",
     });
 });
