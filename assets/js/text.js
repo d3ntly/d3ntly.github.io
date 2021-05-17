@@ -20,7 +20,7 @@ $(function () {
 });
 $(function () {
     $(".typed").typed({
-        strings: ['d3ntly', "Kto eto?", "C/C++ developer", "Game lover...", "Coder", "NedoHacker"],
+        strings: ['d3ntly', "Кто это?", "C/C++ программист", "ГЕЙм ловер...", "Кодер", "Недохакер", "Обсасыватель кода"],
         typeSpeed: 100,
         loop: true,
         cursorChar: "|",
